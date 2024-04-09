@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\vs编译器\c++test\c++test\FileName.cpp(79,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs编译器\c++test\c++test\FileName.cpp(79,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  c++test.vcxproj -> D:\vs编译器\c++test\x64\Debug\c++test.exe
